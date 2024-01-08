@@ -14,7 +14,7 @@ header {
   min-height: 100vh;
   width: 100%;
   background-color: #0c2b75;
-  background-image: linear-gradient(to right, rgba(12, 43, 117, 0.9) 50%, rgba(227, 6, 19, 0.9) 50%), url("../../website/img/Mask group.png");
+  background-image: linear-gradient(to right, rgba(12, 43, 117, 0.9) 50%, rgba(227, 6, 19, 0.9) 50%), url("./img/Mask group.png");
   background-size: cover;
   background-position: center;
   color: rgb(12, 43, 117);
